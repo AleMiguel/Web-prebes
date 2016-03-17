@@ -1,0 +1,87 @@
+Evaluacion:
+
+Proyectos ......................... 80%
+	Proyecto Java-Web 
+		Logica con Java
+		Diseño css
+	Proyecto Web
+		Uso de javascript
+		Java o php
+Tareas ........................... 20%
+	Tener el 80% del total de las tareas para que su proyecto sea calificado 
+
+
+MiniExamen:
+1.- ¿Que es back-end?
+2.- ¿Que es front-end?
+3.- Javascript es back o front end:
+4.- Ultimo estandar de html: 
+5.- Que significa html
+6.- Que significa css
+7.- ¿Html es interpretado o compilado?
+8.- Mencione 10 etiquetas de html5(junto con su funcionamiento)
+9.- Etiquetas para usar javascript embebido
+10.- ¿Que es wireframe?
+11.- ¿Que es Jquery? ¿Es lo mismo que javascript? 
+12.- ¿Que es un diseño responsivo?
+13.- ¿Que es un Framework y da tres ejemplos?
+14.- Como cambias el color de fondo de un div, con id="uno", con Jquery
+15.- Como haces referencia a un elemento html, en css, por medio de su  clase 
+16.- Como haces referencia a los hijos de un elemento en css
+16.- Como haces referencia a varios elementos html en css
+17.- De cuantas maneras se puede seleccionar un elemento html mediante Jquery. EScribe la sintaxis de cada una de ellas.
+18.- ¿Que significa PHP?
+19.- ¿Que es MVC?
+20.- ¿Es necesario especificar el tipo de variable en PHP?
+21.- ¿Es necesario especificar el tipo de variable en javascript?
+22 .- Es correcto el siguiente codigo:
+	<?php while(conditions) : ?>
+		... HTML CODE ...
+	<?php endwhile; ?>
+23.- Da un ejemplo de imprimir etiquetas html con php.
+24.- Menciona 5 frameworks para php.
+25.- ¿Que es XAMPP?	
+26.- Cuales son las operaciones CRUD en sql
+27.- Que es una IP
+28.- Clases de IP
+29.- Equivalente a localhost
+30.- Dos ejemplos de etiquetas html que no necesitan cerrarse.
+31.- ¿Que es AJAX?
+32.- Como se hacen comentarios en html
+33.- Como se hacen comentarios en php de varias lineas
+
+
+	PreguntasExtras:
+		Completa el siguiente dicho popular:
+		El buscador explorer solo sirve para........
+		¿Quien es el padre de la web ?
+		¿Creador de php?
+
+
+Sublime text Plugins:
+Emmet:
+Escribir codigo html y css mas rapido
+	Ejemplos:
+		div>ul>li+li+li
+		div>ul>li*3
+		div+div>p>span+a^div
+		div+div>p>span+a^^div
+		div>(header>ul>li*2>a)+footer>p
+		div#header+div.page+div#footer.class1.class2.class3
+		ul>li.item$*5
+		ul>li.item$@-*5 (@ descendente desde el 1)
+		ul>li.item$@-3*5 (@ desde el 7 hasta el 3)
+		.container>ul.list>.uno
+		ul#nav>li.item$*4>a{Item $} ({} agreaga texto)
+
+jQuery
+	Metodos mas comunes de Jquery 
+
+ColorHighlighter
+	Pone de otro color el codigohexadecimal
+
+BracketHighlighter
+	Indica en que parte abriste una llave
+
+ColorPicker
+	Ctr+shif+c

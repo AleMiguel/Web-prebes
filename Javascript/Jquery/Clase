@@ -1,0 +1,20 @@
+Clase:
+	- Presentacion
+		Ejemplo DOM
+	- Como agregar Jquery:
+		https://code.jquery.com/
+		Seleccionar el 1.11.3 minified
+		<script type="text/javascript" src="https://code.jquery.com/jquery-1.11.3.min.js"></script>
+		<script type="text/javascript" src="js/usingJquery.js"></script>
+	Ejemplo 1:
+		- Explicacion de $(document).ready()
+		- Crear los divs: (div#${pushame$}>p)*3
+			mencionar el style -> css cambio rapido
+
+	Ejemplos que siguen.
+
+	Jquery user interface:
+	<script type="text/javascript" src="https://code.jquery.com/ui/1.11.4/jquery-ui.js"></script>
+	<link rel="stylesheet" href="https://code.jquery.com/ui/1.11.4/themes/smoothness/jquery-ui.css"></link>
+
+	carrito de compras

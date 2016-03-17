@@ -1,0 +1,13 @@
+JAVASCRIPT:
+Lenguaje de scripting,archivo de ordenes,multiplataforma y orientado a objetos.
+	Client-side JavaScript: Responde a eventos del usuario. Y usa el Document Object Model
+
+	Server-side JavaScript: Aplicacion se comunique con un servidor externo 
+
+ JavaScript tiene un modelo de objetos basado en prototipos en lugar del  modelo de objetos basado en clases	
+
+ 	Basado en prototipos: Objetos no son creados mediante la instanciación de clases sino mediante la clonación de otros objetos
+
+ 	en tiempo de ejecución se pueden añadir y quitar propiedades a un objeto. Si se añade una propiedad a un objeto que está siendo utilizado como el prototipo de otros objetos, los objetos para los que es un prototipo también tienen la nueva propiedad añadida.
+
+ 	
